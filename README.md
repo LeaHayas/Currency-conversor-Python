@@ -1,4 +1,4 @@
-# Currency_conversor
+# Currency conversor
 Python | Currency conversor - Practice - 4/2023
 This is a currency convertor that i made as a python practice in my study time.
 The program converts 
